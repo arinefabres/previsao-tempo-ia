@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-#instalar pandas e dependencias com comando "pip install pandas numpy"
+#instalar pandas e dependencias com comando "pip install pandas numpy".
 
 # Criação do DataFrame
 dados = {
